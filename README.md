@@ -14,14 +14,16 @@ Summary: The Terraform Oracle Public Cloud provider
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/terraform-provider-opc-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/terraform-provider-opc-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/terraform-provider-opc-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/terraform-provider-opc-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/terraform-provider-opc-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/terraform-provider-opc-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/terraform-provider-opc-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/terraform-provider-opc-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/terraform-provider-opc-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/terraform-provider-opc-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/terraform-provider-opc-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/terraform-provider-opc-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-opc/badges/version.svg)](https://anaconda.org/conda-forge/terraform-provider-opc)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-opc/badges/downloads.svg)](https://anaconda.org/conda-forge/terraform-provider-opc)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-terraform--provider--opc-green.svg)](https://anaconda.org/conda-forge/terraform-provider-opc) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/terraform-provider-opc.svg)](https://anaconda.org/conda-forge/terraform-provider-opc) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/terraform-provider-opc.svg)](https://anaconda.org/conda-forge/terraform-provider-opc) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/terraform-provider-opc.svg)](https://anaconda.org/conda-forge/terraform-provider-opc) |
 
 Installing terraform-provider-opc
 =================================
