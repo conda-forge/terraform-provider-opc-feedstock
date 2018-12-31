@@ -17,7 +17,7 @@ source:
     sha256: d79f30322a80cdc80f264f2a82c1bc42d4b1bfe6aeea0b95c8ec07e8496cf3c6
 
 build:
-  number: 0
+  number: 1000
   script:
     - pushd {{ pkg_src }}
     - go build -v -o $GOBIN/{{ x4_plugin }} .  # [unix]
